@@ -25,42 +25,42 @@ Whilst it can like a minefield trying to implement access keys that are both use
 Below is the current standard (v1) created on 05/03/2019. If you want to see reasoning behind the development of this standard please [click here to visit the reasoning page](reasoning.md).
 
 <table>
-<tr>
-    <th>Key</th>
-    <th>Action/Target</th>
-<tr>
-<tr>
-    <td>1 2 3 4 5 6 7 8 9 0</td>
-    <td>Main site navigation (in order displayed)</td>
-</tr>
-<tr>
-    <td>q</td>
-    <td>Header</td>
-</tr>
-<tr>
-    <td>w</td>
-    <td>Content</td>
-</tr>
-<tr>
-    <td>a</td>
-    <td>Footer</td>
-</tr>
-<tr>
-    <td>s</td>
-    <td>Search</td>
-</tr>
-<tr>
-    <td>c</td>
-    <td>Contact</td>
-</tr>
-<tr>
-    <td>h</td>
-    <td>Home</td>
-</tr>
-<tr>
-    <td>`</td>
-    <td>Home (alt)</td>
-</tr>
+    <tr>
+        <th>Key</th>
+        <th>Action/Target</th>
+    <tr>
+    <tr>
+        <td>1 2 3 4 5 6 7 8 9 0</td>
+        <td>Main site navigation (in order displayed)</td>
+    </tr>
+    <tr>
+        <td>q</td>
+        <td>Header</td>
+    </tr>
+    <tr>
+        <td>w</td>
+        <td>Content</td>
+    </tr>
+    <tr>
+        <td>a</td>
+        <td>Footer</td>
+    </tr>
+    <tr>
+        <td>s</td>
+        <td>Search</td>
+    </tr>
+    <tr>
+        <td>c</td>
+        <td>Contact</td>
+    </tr>
+    <tr>
+        <td>h</td>
+        <td>Home</td>
+    </tr>
+    <tr>
+        <td>`</td>
+        <td>Home (alt)</td>
+    </tr>
 </table>
 
 ---
